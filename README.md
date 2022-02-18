@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Luciana Boher</h1>
 
 <div align="center">
-  <p> 🌱 I’m currently learning <b>Java | Python | React | React Native<b> </p>
+  <p> 🌱 I’m currently learning <b>Java | C# | Python | React | React Native | Angular | Power BI<b> </p>
   <p> 👀 I’m most interested in <b>Backend, Data Base and Data Science<b> </p>
   <p> 👯 I’m looking to collaborate on <b>Innovative Projects<b> </p>
   <p> 📧 How to reach me: luciana_boher@yahoo.com.br </p>
